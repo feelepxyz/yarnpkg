@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "exact": "^0.3.0"
+    "extend": "^2.0.0"
   }
 }
