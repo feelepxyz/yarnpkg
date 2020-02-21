@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-extend@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.npmjs.org/extend/-/extend-2.0.0.tgz#cc3c1e238521df4c28e3f30868b7324bb5898a5c"
-  integrity sha1-zDweI4Uh30wo4/MIaLcyS7WJilw=
+extend@^2.0.0:
+  version "2.0.2"
+  resolved "https://registry.npmjs.org/extend/-/extend-2.0.2.tgz#1b74985400171b85554894459c978de6ef453ab7"
+  integrity sha512-AgFD4VU+lVLP6vjnlNfF7OeInLTyeyckCNPEsuxz1vi786UuK/nk6ynPuhn/h+Ju9++TQyr5EpLRI14fc1QtTQ==
