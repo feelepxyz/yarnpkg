@@ -11,3 +11,4 @@ updates:
     timezone: "Europe/London"
   versioning-strategy: lockfile-only
   rebase-strategy: 'off'
+  open-pull-request-limit: 12
