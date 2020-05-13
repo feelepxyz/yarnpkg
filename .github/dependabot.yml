@@ -6,13 +6,5 @@ updates:
   directory: "/"
   schedule:
     interval: weekly
-    day: wednesday
-    time: '03:10'
-    timezone: "Europe/London"
-  versioning-strategy: lockfile-only
-  rebase-strategy: 'off'
-  open-pull-requests-limit: 12
   pull-request-branch-name:
-    separator: "-"
-  commit-message:
-      prefix: "chore"
+    separator: /
