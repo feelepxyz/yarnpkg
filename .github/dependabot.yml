@@ -7,4 +7,4 @@ updates:
   schedule:
     interval: weekly
   pull-request-branch-name:
-    separator: /
+    separator: _
