@@ -10,4 +10,4 @@ updates:
     time: '04:00'
     timezone: "Europe/London"
   versioning-strategy: lockfile-only
-  rebase-strategy: off
+  rebase-strategy: 'off'
