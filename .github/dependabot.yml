@@ -6,5 +6,4 @@ updates:
   directory: "/"
   schedule:
     interval: weekly
-  pull-request-branch-name:
-    separator: _
+  rebase-strategy: off
