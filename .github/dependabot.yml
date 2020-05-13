@@ -13,4 +13,6 @@ updates:
   rebase-strategy: 'off'
   open-pull-requests-limit: 12
   pull-request-branch-name:
-    separator: -
+    separator: "-"
+  commit-message:
+      prefix: "chore"
