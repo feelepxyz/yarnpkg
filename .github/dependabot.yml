@@ -5,8 +5,9 @@ updates:
 - package-ecosystem: npm
   directory: "/"
   schedule:
-    interval: daily
-    day: tuesday
+    interval: weekly
+    day: wednesday
     time: '04:00'
-  open-pull-requests-limit: 99
-  versioning-strategy: increase
+    timezone: "Europe/London"
+  versioning-strategy: lockfile-only
+  rebase-strategy: off
