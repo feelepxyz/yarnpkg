@@ -6,4 +6,4 @@ updates:
   directory: "/"
   schedule:
     interval: weekly
-  rebase-strategy: off
+  rebase-strategy: disabled
